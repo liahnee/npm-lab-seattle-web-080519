@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/liahnee/npm-lab-seattle-web-080519/issues"
   },
-  "homepage": "https://github.com/liahnee/npm-lab-seattle-web-080519#readme",
-  "dependencies": {
-    "moment": "^2.24.0"
-  }
+  "homepage": "https://github.com/liahnee/npm-lab-seattle-web-080519#readme"
 }
